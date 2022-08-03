@@ -1,0 +1,23 @@
+body{
+    background-color: lavenderblush;
+    color: black;
+}
+
+.heading{
+    width: 80%;
+    font-size: 25px;
+    font-family: cursive;
+    font-style: italic;
+}
+
+#camera{
+    border: 2px dashed black;
+    width: 350;
+    height: 300;
+}
+
+#result{
+    border: 1px dotted black;
+    width: 350;
+    height: 300;
+}
